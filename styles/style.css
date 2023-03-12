@@ -1,9 +1,22 @@
+body {
+    min-height: 100vh;
+    margin:0;
+    padding:0;
+}
+
+
 .footer {
     display: flex;
     justify-content: space-between;
-    background-color: #1F2937;
+    background-color: #364760;
     padding: 10px 166px;
 }
+
+#right-links {
+    display: flex;
+    gap: 18px;
+}
+
 
 a {
     text-decoration: none;
