@@ -12,6 +12,13 @@ body {
     padding: 20px 166px;
 }
 
+.mainContent {
+    display: flex;
+    justify-content: center;
+    gap: 36px;
+    padding: 20px 166px;
+}
+
 #right-links {
     display: flex;
     gap: 18px;
@@ -59,6 +66,10 @@ body {
 h2 {
     font-size: 48px;
     color: #F9FAF8;
+}
+
+h3 {
+    text-align: center;
 }
 a {
     text-decoration: none;
