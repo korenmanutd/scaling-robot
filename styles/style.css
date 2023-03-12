@@ -17,7 +17,10 @@ body {
     gap: 18px;
 }
 
-
+h2 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
 a {
     text-decoration: none;
     color: #F9FAF8;
