@@ -38,6 +38,9 @@ body {
     background-color: #3882F6;
     width: 100px;
     padding: 6px;
+    border: none;
+    color: white;
+    border-radius: 8px;
 }
 
 .placeholder {
