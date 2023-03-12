@@ -20,6 +20,7 @@ body {
 .contentOne {
     display: flex;
     justify-content: space-between;
+    color: #F9FAF8;
 }
 
 .contentOne > .left {
@@ -29,7 +30,6 @@ body {
 
 #textHeader {
     font-size: 48px;
-    color: #F9FAF8;
     font-weight: 900;
     margin: 0;
 }
@@ -53,6 +53,7 @@ body {
     align-self: center;
     text-align: center;
     width: 100%;
+    color: black;
 }
 
 h2 {
