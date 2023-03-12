@@ -12,6 +12,12 @@ body {
     padding: 20px 166px;
 }
 
+.contentTwo {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
 .mainContent {
     display: flex;
     justify-content: center;
