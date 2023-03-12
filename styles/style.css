@@ -27,6 +27,19 @@ body {
     flex-direction: column;
 }
 
+#textHeader {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin: 0;
+}
+
+.btn {
+    background-color: #3882F6;
+    width: 100px;
+    padding: 6px;
+}
+
 .placeholder {
     display: flex;
     background: #eee;
