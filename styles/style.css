@@ -17,10 +17,26 @@ body {
     gap: 18px;
 }
 
+.contentOne {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contentOne > .left {
+    display: flex;
+    flex-direction: column;
+}
+
 .placeholder {
+    display: flex;
     background: #eee;
-    text-align: center;
     width: 300px;
+}
+
+.placeholder > h4 {
+    align-self: center;
+    text-align: center;
+    width: 100%;
 }
 
 h2 {
