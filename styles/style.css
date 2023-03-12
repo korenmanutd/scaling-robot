@@ -17,6 +17,12 @@ body {
     gap: 18px;
 }
 
+.right {
+    background: #eee;
+    text-align: center;
+    width: 300px;
+}
+
 h2 {
     font-size: 48px;
     color: #F9FAF8;
